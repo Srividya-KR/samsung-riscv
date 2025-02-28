@@ -1,0 +1,7 @@
+Using the RISC-V Core Verilog netlist and Testbench, conduct a Functional Simulation experiment with GTKWave to analyze the waveforms.
+
+Steps:
+
+Install iverilog and GTKWave on Ubuntu using the appropriate commands.
+Compile the RISC-V Core Verilog netlist and Testbench.
+View and analyze the waveform output in the GTKWave window.
